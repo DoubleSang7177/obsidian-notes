@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "新闻/美伊局势.md",
+                "file": "美股/基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "美伊局势"
+              "title": "基础知识"
             }
           }
         ],
@@ -305,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 673.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,26 +316,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "copilot:Open Copilot Chat": false
     }
   },
   "active": "9c820faa610153dc",
   "lastOpenFiles": [
-    "交易知识库/合约交易笔记.md",
+    "美股/📊 期货 vs CFD（差价合约）核心笔记.md",
+    "美股/📒 谷歌.md",
+    "美股/基础知识.md",
+    "Pasted image 20260409180012.png",
+    "Pasted image 20260409175814.png",
     "新闻/美伊局势.md",
+    "().md",
+    "交易知识库/盘口.md",
+    "专业词汇.md",
+    "tv 指标.png",
+    "Pasted image 20260409143724.png",
+    "Pasted image 20260409143437.png",
+    "交易知识库/训练图.md",
+    "Pasted image 20260409143347.png",
+    "Pasted image 20260409143336.png",
+    "Pasted image 20260409143227.png",
+    "Pasted image 20260409143140.png",
+    "copilot/copilot-conversations/Telegram群组消息获取@20260408_180233.md",
+    "交易知识库/合约交易笔记.md",
     "宏观经济/美联储.md",
-    "美股/谷歌.md",
     "地理/美国：11个大都市圈.md",
     "地理/地理位置：七大洲四大洋.md",
-    "交易知识库/训练图.md",
     "地理",
     "美股/AI应用层.md",
     "美股/美股信心崩溃？别急，真正的恐慌还未降临！大跌何时触底？一大信号判断真正熊市！.md",
     "美股/OpenAI的前世今生.md",
     "美股/微软公司：从软件巨擘到云与AI的领军者.md",
-    "美股/基础知识.md",
     "资产驱动.png",
     "新闻",
     "copilot/copilot-conversations/谷歌笔记总结与市值@20260408_162045.md",
@@ -352,11 +364,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "未命名.base",
