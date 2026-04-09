@@ -2,7 +2,7 @@
   "theme": "moonstone",
   "textFontFamily": "Adelle Sans Devanagari",
   "interfaceFontFamily": "宋体",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Primary",
   "baseFontSize": 20,
-  "translucency": true
+  "translucency": false
 }
